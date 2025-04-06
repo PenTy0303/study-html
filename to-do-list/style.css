@@ -11,7 +11,7 @@
     min-height: 100vh;
     background: linear-gradient(135deg, #153677, #4e085f);
     padding: 10px;
-
+    box-shadow: 6px 6px 6px 0px rgba(0, 0, 0, 0.45);
 }
 
 .todo-app {
@@ -45,6 +45,7 @@
     border-radius: 30px;
     padding-left: 20px;
     margin-bottom: 25px;
+    box-shadow: 6px 6px 6px 0px rgba(0, 0, 0, 0.45);
 }
 
 input {
